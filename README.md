@@ -24,7 +24,7 @@
 
 #### **Programming Languages** 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=ts,js,c,csharp,py,java" />
+    <img src="https://skillicons.dev/icons?i=ts,js,c,cs,py,java" />
 </p>
 
 #### **Database**
