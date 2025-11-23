@@ -3,9 +3,10 @@
 
 ---
 
-🚀 I'm currently working on:
-- 📝 Menyelesaikan beberapa tugas kuliah dan mengembangkan project pribadi
-- 🔐 Mendalami dunia Cyber Security, termasuk penggunaan berbagai tools di Kali Linux, teknik penetration testing, dan praktik keamanan sistem  
+### 🚀 I'm currently working on:
+- 📝 Completing university assignments and developing personal projects  
+- 🔐 Deepening my knowledge in **Cyber Security**, including using various tools in **Kali Linux**, performing **penetration testing**, and practicing system security
+
 
 ---
 
@@ -23,7 +24,7 @@
 
 #### **Programming Languages** 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=ts,js,c,py,java" />
+    <img src="https://skillicons.dev/icons?i=ts,js,c,csharp,py,java" />
 </p>
 
 #### **Database**
