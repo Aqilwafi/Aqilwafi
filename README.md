@@ -1,12 +1,33 @@
-<h1 align="center">Hi 👋, I'm Aqil Wafi</h1>
-<h3 align="center">Passionate Educator | Computer Science Student | Cybersecurity Enthusiast </h3>
+<h1 align="center">Hi 👋, I'm an Animal Lover</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,postgres,mysql,docker,linux,kali" />
+</p>
+
+<p align="center">
+<strong>KIDDING!</strong>
+
+</p>
+
+
+<p align="center">
+  <i>(Well, I actually am, but mainly I break into servers and code stuff)</i>
+</p>
+
+<p align="center">
+  btw, it's <b>Aqil Wafi</b>, okay! 
+</p>
+
+<h3 align="center">
+  Passionate Educator | Computer Science Student | Cybersecurity Enthusiast <span style="font-size: 0.7em; opacity: 0.7;">| <sub> Animal Lover</sub></span>
+</h3>
 
 ---
 
 ### 🚀 I'm currently working on:
 - 📝 Completing university assignments and developing personal projects  
-- 🔐 Deepening my knowledge in **Cyber Security**, including using various tools in **Kali Linux**, performing **penetration testing**, and practicing system security
-
+- 🔐 Deepening my knowledge in **Cyber Security**, including using various tools in **Kali Linux**, performing **penetration testing**, and practicing system security  
+- 🐾 Loving animals *(and making sure they don't step on my keyboard while hacking)*
 
 ---
 
